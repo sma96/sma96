@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sma96&layout=compact&theme=dark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=masagu96)](https://solved.ac/masagu96)
+
+- 📫 How to reach me: masagu96@gmail.com
+  
 <!--
 **sma96/sma96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
